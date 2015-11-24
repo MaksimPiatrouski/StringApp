@@ -1,0 +1,7 @@
+c:\users\maksim_piatrouski@epam.com\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\StringApp.exe.config
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\StringApp.exe.config
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\StringApp.exe
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\StringApp.pdb
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\StringApp.csprojResolveAssemblyReference.cache
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\StringApp.exe
+C:\workspace\CSharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\StringApp.pdb
